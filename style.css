@@ -3,9 +3,8 @@ body{
     background-size: cover;
 }
 .title{
-    color: red;
     text-align: center;
 }
-p{
+.title, p{
     color: red;
 }
