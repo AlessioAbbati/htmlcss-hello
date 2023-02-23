@@ -4,6 +4,7 @@ body{
 }
 .title{
     color: red;
+    text-align: center;
 }
 p{
     color: red;
